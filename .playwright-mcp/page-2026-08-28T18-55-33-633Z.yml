@@ -1,0 +1,323 @@
+- generic [ref=f6e2]:
+  - generic [ref=f6e6]:
+    - link [ref=f6e8] [cursor=pointer]:
+      - /url: https://www.makemytrip.com
+      - img "MMT's LOGO" [ref=f6e9]
+    - navigation [ref=f6e10]:
+      - list [ref=f6e11]:
+        - listitem [ref=f6e12]:
+          - link "Flights" [ref=f6e14] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/flights/
+        - listitem [ref=f6e18]:
+          - link "Hotels" [ref=f6e20] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/hotels/
+        - listitem [ref=f6e24]:
+          - link "Villas & Homestays" [ref=f6e26] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/homestays/
+        - listitem [ref=f6e30]:
+          - link "Holiday Packages" [ref=f6e32] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/holidays-india/
+        - listitem [ref=f6e36]:
+          - link "Trains" [ref=f6e38] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/railways/
+        - listitem [ref=f6e42]:
+          - link "Buses" [ref=f6e44] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/bus-tickets/
+        - listitem [ref=f6e48]:
+          - link "Cabs" [ref=f6e50] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/cabs/
+        - listitem [ref=f6e54]:
+          - link "Forex Card & Currency" [ref=f6e56] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/forex/
+        - listitem [ref=f6e60]:
+          - link "Travel Insurance" [ref=f6e62] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/travel-insurance/
+        - listitem [ref=f6e66]:
+          - generic [ref=f6e67]: More
+    - list [ref=f6e73] [cursor=pointer]:
+      - generic [ref=f6e76]:
+        - generic [ref=f6e77]: Wishlist
+        - generic [ref=f6e78]: Save favourites
+    - list [ref=f6e79]:
+      - listitem [ref=f6e80]:
+        - generic [ref=f6e86] [cursor=pointer]:
+          - generic [ref=f6e87]: Login or
+          - generic [ref=f6e88]: Create Account
+    - list [ref=f6e89] [cursor=pointer]:
+      - listitem [ref=f6e90]:
+        - paragraph [ref=f6e91]: Currency
+        - paragraph [ref=f6e92]: INR
+  - banner [ref=f6e94]:
+    - generic [ref=f6e97]:
+      - generic [ref=f6e98] [cursor=pointer]:
+        - generic [ref=f6e99]: CITY, AREA or PROPERTY
+        - textbox "CITY, AREA or PROPERTY" [ref=f6e100]:
+          - /placeholder: ""
+      - generic [ref=f6e101] [cursor=pointer]:
+        - generic [ref=f6e102]: Check-In
+        - textbox "Check-In" [ref=f6e103]
+      - generic [ref=f6e104] [cursor=pointer]:
+        - generic [ref=f6e105]: Check-Out
+        - textbox "Check-Out" [ref=f6e106]
+      - generic [ref=f6e107] [cursor=pointer]:
+        - generic [ref=f6e108]: Rooms & Guests
+        - textbox "Rooms & Guests" [ref=f6e109]
+      - button "Search" [ref=f6e110] [cursor=pointer]
+      - button "OneCircle rewards" [ref=f6e112] [cursor=pointer]:
+        - generic [ref=f6e114]:
+          - generic [ref=f6e115]: new
+          - generic [ref=f6e118]:
+            - paragraph [ref=f6e119]: OneCircle
+            - paragraph [ref=f6e120]: Rewards
+  - generic [ref=f6e122]:
+    - generic [ref=f6e123]:
+      - generic [ref=f6e124] [cursor=pointer]:
+        - button "EXPLORE ON MAP" [ref=f6e125]
+        - img "map" [ref=f6e127]
+      - generic [ref=f6e128]:
+        - combobox [ref=f6e130]:
+          - textbox "Search for locality / hotel name" [ref=f6e131]
+          - listbox
+        - generic [ref=f6e132]:
+          - generic [ref=f6e133]: For You
+          - list [ref=f6e134]:
+            - listitem [ref=f6e135]:
+              - generic [ref=f6e136]:
+                - checkbox "3 Star" [ref=f6e137]
+                - generic [ref=f6e138] [cursor=pointer]: 3 Star
+              - generic [ref=f6e141]: (1)
+            - listitem [ref=f6e142]:
+              - generic [ref=f6e143]:
+                - checkbox "5 Star" [ref=f6e144]
+                - generic [ref=f6e145] [cursor=pointer]: 5 Star
+              - generic [ref=f6e148]: (1)
+            - listitem [ref=f6e149]:
+              - generic [ref=f6e150]:
+                - checkbox "Swimming Pool" [ref=f6e151]
+                - generic [ref=f6e152] [cursor=pointer]: Swimming Pool
+              - generic [ref=f6e155]: (2)
+        - generic [ref=f6e156]:
+          - generic [ref=f6e157]: Price Per Night
+          - generic [ref=f6e158]:
+            - list [ref=f6e159]:
+              - listitem [ref=f6e160]:
+                - generic [ref=f6e161]:
+                  - checkbox "₹ 0 - ₹ 12500" [ref=f6e162]
+                  - generic [ref=f6e163] [cursor=pointer]: ₹ 0 - ₹ 12500
+                - generic [ref=f6e164]: (1)
+              - listitem [ref=f6e165]:
+                - generic [ref=f6e166]:
+                  - checkbox "₹ 12500 - ₹ 15000" [ref=f6e167]
+                  - generic [ref=f6e168] [cursor=pointer]: ₹ 12500 - ₹ 15000
+                - generic [ref=f6e169]: (1)
+              - listitem [ref=f6e170]:
+                - generic [ref=f6e171]:
+                  - checkbox "₹ 15000 - ₹ 17000" [ref=f6e172]
+                  - generic [ref=f6e173] [cursor=pointer]: ₹ 15000 - ₹ 17000
+                - generic [ref=f6e174]: (1)
+            - paragraph [ref=f6e175]: Your Budget
+            - generic [ref=f6e176]:
+              - spinbutton "min range input" [ref=f6e177]
+              - generic [ref=f6e178]: to
+              - spinbutton "max range input" [ref=f6e179]
+              - button "Select Range button"
+        - generic [ref=f6e180]:
+          - generic [ref=f6e181]: Star Category
+          - list [ref=f6e182]:
+            - listitem [ref=f6e183]:
+              - generic [ref=f6e184]:
+                - checkbox "3 Star" [ref=f6e185]
+                - generic [ref=f6e186] [cursor=pointer]: 3 Star
+              - generic [ref=f6e189]: (1)
+            - listitem [ref=f6e190]:
+              - generic [ref=f6e191]:
+                - checkbox "5 Star" [ref=f6e192]
+                - generic [ref=f6e193] [cursor=pointer]: 5 Star
+              - generic [ref=f6e196]: (1)
+        - generic [ref=f6e197]:
+          - generic [ref=f6e198]: User Rating
+          - list [ref=f6e199]:
+            - listitem [ref=f6e200]:
+              - generic [ref=f6e201]:
+                - 'checkbox "Excellent: 4.2+" [ref=f6e202]'
+                - generic [ref=f6e203] [cursor=pointer]: "Excellent: 4.2+"
+              - generic [ref=f6e206]: (2)
+            - listitem [ref=f6e207]:
+              - generic [ref=f6e208]:
+                - 'checkbox "Very Good: 3.5+" [ref=f6e209]'
+                - generic [ref=f6e210] [cursor=pointer]: "Very Good: 3.5+"
+              - generic [ref=f6e213]: (2)
+            - listitem [ref=f6e214]:
+              - generic [ref=f6e215]:
+                - 'checkbox "Good: 3+" [ref=f6e216]'
+                - generic [ref=f6e217] [cursor=pointer]: "Good: 3+"
+              - generic [ref=f6e220]: (2)
+        - generic [ref=f6e221]:
+          - generic [ref=f6e222]: Property Type
+          - list [ref=f6e223]:
+            - listitem [ref=f6e224]:
+              - generic [ref=f6e225]:
+                - checkbox "Hotel" [ref=f6e226]
+                - generic [ref=f6e227] [cursor=pointer]: Hotel
+              - generic [ref=f6e230]: (3)
+            - listitem [ref=f6e231]:
+              - generic [ref=f6e232]:
+                - checkbox "Resort" [ref=f6e233]
+                - generic [ref=f6e234] [cursor=pointer]: Resort
+              - generic [ref=f6e237]: (1)
+        - generic [ref=f6e238]:
+          - generic [ref=f6e239]: Room Views
+          - list [ref=f6e240]:
+            - listitem [ref=f6e241]:
+              - generic [ref=f6e242]:
+                - checkbox "Pool View" [ref=f6e243]
+                - generic [ref=f6e244] [cursor=pointer]: Pool View
+              - generic [ref=f6e247]: (1)
+            - listitem [ref=f6e248]:
+              - generic [ref=f6e249]:
+                - checkbox "Lake View" [ref=f6e250]
+                - generic [ref=f6e251] [cursor=pointer]: Lake View
+              - generic [ref=f6e254]: (1)
+            - listitem [ref=f6e255]:
+              - generic [ref=f6e256]:
+                - checkbox "City View" [ref=f6e257]
+                - generic [ref=f6e258] [cursor=pointer]: City View
+              - generic [ref=f6e261]: (1)
+        - generic [ref=f6e262]:
+          - generic [ref=f6e263]: Room Amenities
+          - list [ref=f6e264]:
+            - listitem [ref=f6e265]:
+              - generic [ref=f6e266]:
+                - checkbox "Living Area" [ref=f6e267]
+                - generic [ref=f6e268] [cursor=pointer]: Living Area
+              - generic [ref=f6e271]: (1)
+            - listitem [ref=f6e272]:
+              - generic [ref=f6e273]:
+                - checkbox "Heater" [ref=f6e274]
+                - generic [ref=f6e275] [cursor=pointer]: Heater
+              - generic [ref=f6e278]: (2)
+            - listitem [ref=f6e279]:
+              - generic [ref=f6e280]:
+                - checkbox "Jacuzzi/Bathtub" [ref=f6e281]
+                - generic [ref=f6e282] [cursor=pointer]: Jacuzzi/Bathtub
+              - generic [ref=f6e285]: (2)
+            - listitem [ref=f6e286]:
+              - generic [ref=f6e287]:
+                - checkbox "Jacuzzi" [ref=f6e288]
+                - generic [ref=f6e289] [cursor=pointer]: Jacuzzi
+              - generic [ref=f6e292]: (1)
+            - listitem [ref=f6e293]:
+              - generic [ref=f6e294]:
+                - checkbox "Bathtub" [ref=f6e295]
+                - generic [ref=f6e296] [cursor=pointer]: Bathtub
+              - generic [ref=f6e299]: (1)
+          - paragraph [ref=f6e300]: Show 3 more
+        - generic [ref=f6e301]:
+          - generic [ref=f6e302]: Amenities
+          - textbox "Search amenities" [ref=f6e305]
+          - generic [ref=f6e306]:
+            - generic [ref=f6e307]: Guests Love
+            - list [ref=f6e308]:
+              - listitem [ref=f6e309]:
+                - generic [ref=f6e310]:
+                  - checkbox [ref=f6e311]
+                  - generic [ref=f6e312] [cursor=pointer]
+                - generic [ref=f6e313]: (2)
+              - listitem [ref=f6e314]:
+                - generic [ref=f6e315]:
+                  - checkbox [ref=f6e316]
+                  - generic [ref=f6e317] [cursor=pointer]
+                - generic [ref=f6e318]: (3)
+          - paragraph [ref=f6e319]: Show -2 more
+        - generic [ref=f6e320]:
+          - img "Booking Preference" [ref=f6e321]
+          - generic [ref=f6e322]: Booking Preference
+          - list [ref=f6e323]:
+            - listitem [ref=f6e324]:
+              - generic [ref=f6e325]:
+                - checkbox "Instant Book" [ref=f6e326]
+                - generic [ref=f6e327] [cursor=pointer]: Instant Book
+              - generic [ref=f6e330]: (3)
+        - generic [ref=f6e331]:
+          - generic [ref=f6e332]: Deals & Offers
+          - list [ref=f6e333]:
+            - listitem [ref=f6e334]:
+              - generic:
+                - checkbox "OneCircle"
+                - generic: OneCircle
+              - generic [ref=f6e335]: (0)
+      - generic [ref=f6e336] [cursor=pointer]: BACK TO TOP
+    - generic [ref=f6e337]:
+      - generic [ref=f6e340]:
+        - list [ref=f6e341]:
+          - listitem [ref=f6e342]:
+            - link "Home" [ref=f6e343] [cursor=pointer]:
+              - /url: //www.makemytrip.com
+          - listitem [ref=f6e344]: Hotels and more in Hyde
+        - heading "3 Properties in Hyde" [level=1] [ref=f6e347]
+      - generic [ref=f6e356]:
+        - generic [ref=f6e360]:
+          - img "OneCircle" [ref=f6e362]
+          - generic [ref=f6e363]:
+            - paragraph [ref=f6e364]: OneCircle
+            - generic [ref=f6e365]:
+              - text: Earn & redeem points on eligible properties for additional savings!
+              - button "Learn More" [ref=f6e366] [cursor=pointer]
+        - generic [ref=f6e367]:
+          - paragraph [ref=f6e369]: Showing Properties in Hyde
+          - paragraph
+        - generic [ref=f6e376] [cursor=pointer]:
+          - generic [ref=f6e377]:
+            - img "hotelImg" [ref=f6e385]
+            - generic [ref=f6e386]:
+              - paragraph [ref=f6e388]:
+                - link "Pony Island Inn" [ref=f6e389]:
+                  - /url: //www.makemytrip.com/hotels/hotel-details?hotelId=202406051134431483&_uCurrency=INR&checkin=08312026&checkout=09012026&city=CTHYD&country=IN&lat=35.10965&lng=-75.97705&locusId=CTHYD&locusType=city&rank=1&regionNearPinSearch=false&roomStayQualifier=2e0e&searchText=Hyderabad&mtkeys=undefined
+              - generic [ref=f6e392]: Hyde
+          - generic [ref=f6e398]:
+            - generic [ref=f6e401]:
+              - generic [ref=f6e402]: Excellent
+              - generic [ref=f6e403]: "4.7"
+              - paragraph [ref=f6e404]: (502 Ratings)
+            - generic [ref=f6e406]:
+              - paragraph [ref=f6e407]: ₹ 14,294
+              - paragraph [ref=f6e409]: ₹ 11,844
+              - paragraph [ref=f6e410]: + ₹ 2,966 taxes & fees
+              - paragraph [ref=f6e411]: Per Night
+            - generic [ref=f6e412]: Login to Book Now & Pay Later!
+        - generic [ref=f6e420] [cursor=pointer]:
+          - generic [ref=f6e421]:
+            - generic [ref=f6e422]:
+              - img "hotelImg" [ref=f6e430]
+              - paragraph [ref=f6e433]:
+                - link "Blackbeard's Lodge" [ref=f6e434]:
+                  - /url: //www.makemytrip.com/hotels/hotel-details?hotelId=202001291335045095&_uCurrency=INR&checkin=08312026&checkout=09012026&city=CTHYD&country=IN&lat=35.11103&lng=-75.97684&locusId=CTHYD&locusType=city&rank=2&regionNearPinSearch=false&roomStayQualifier=2e0e&searchText=Hyderabad&mtkeys=undefined
+            - generic [ref=f6e437]:
+              - generic [ref=f6e440]:
+                - generic [ref=f6e441]: Very Good
+                - generic [ref=f6e442]: "4.2"
+                - paragraph [ref=f6e443]: (400 Ratings)
+              - generic [ref=f6e445]:
+                - paragraph [ref=f6e446]: ₹ 16,510
+                - paragraph [ref=f6e448]: ₹ 14,048
+                - paragraph [ref=f6e449]: + ₹ 3,426 taxes & fees
+                - paragraph [ref=f6e450]: Per Night
+              - generic [ref=f6e451]: Login to Book Now & Pay Later!
+          - generic [ref=f6e455]: Exclusive Offer - HDFC Credit Card EMI Users.
+        - generic [ref=f6e464] [cursor=pointer]:
+          - generic [ref=f6e465]:
+            - img "hotelImg" [ref=f6e473]
+            - generic [ref=f6e474]:
+              - paragraph [ref=f6e476]:
+                - link "The Ocracoke Harbor Inn" [ref=f6e477]:
+                  - /url: //www.makemytrip.com/hotels/hotel-details?hotelId=202002131220165070&_uCurrency=INR&checkin=08312026&checkout=09012026&city=CTHYD&country=IN&lat=35.11033&lng=-75.98364&locusId=CTHYD&locusType=city&rank=3&regionNearPinSearch=false&roomStayQualifier=2e0e&searchText=Hyderabad&mtkeys=undefined
+              - generic [ref=f6e480]:
+                - generic [ref=f6e481]: Hyde
+                - generic [ref=f6e486]: Free Cancellation available at extra charges
+          - generic [ref=f6e491]:
+            - generic [ref=f6e493]:
+              - paragraph [ref=f6e495]: ₹ 12,416
+              - paragraph [ref=f6e496]: + ₹ 1,459 taxes & fees
+              - paragraph [ref=f6e497]: Per Night
+            - generic [ref=f6e498]: Login to Book Now & Pay Later!
+        - paragraph

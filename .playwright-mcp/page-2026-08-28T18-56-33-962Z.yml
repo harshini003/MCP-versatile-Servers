@@ -1,0 +1,1214 @@
+- generic [ref=f16e1]:
+  - link "Skip to content" [ref=f16e2] [cursor=pointer]:
+    - /url: "#site-content"
+  - alert
+  - generic [ref=f16e8]:
+    - generic [ref=f16e14]:
+      - banner [ref=f16e15]:
+        - generic [ref=f16e19]:
+          - link "Airbnb homepage" [ref=f16e21] [cursor=pointer]:
+            - /url: /
+          - search [ref=f16e25]:
+            - generic:
+              - generic:
+                - generic:
+                  - tablist:
+                    - tab "Homes" [selected]
+                    - tab "Experiences"
+                    - tab "Services"
+                - search "Start your search" [ref=f16e27] [cursor=pointer]:
+                  - generic [ref=f16e29]:
+                    - button "Location Homes in Hyderabad" [ref=f16e30]:
+                      - generic [ref=f16e31]: Location
+                      - generic [ref=f16e33]: Homes in Hyderabad
+                    - button "Check in / Check out 31 Aug – 1 Sept" [ref=f16e35]:
+                      - generic [ref=f16e36]: Check in / Check out
+                      - generic [ref=f16e37]: 31 Aug – 1 Sept
+                    - button "Guests 2 guests" [ref=f16e39]:
+                      - generic [ref=f16e40]: Guests
+                      - generic [ref=f16e41]: 2 guests
+          - navigation "Profile" [ref=f16e50]:
+            - generic [ref=f16e51]:
+              - button "Become a host" [ref=f16e52] [cursor=pointer]
+              - button "Choose a language and currency" [ref=f16e55] [cursor=pointer]
+            - button "Main navigation menu" [ref=f16e61] [cursor=pointer]
+        - group "filters" [ref=f16e70]:
+          - generic [ref=f16e73]:
+            - button "Filters" [ref=f16e76] [cursor=pointer]
+            - generic [ref=f16e82]:
+              - checkbox "Self check-in" [ref=f16e85] [cursor=pointer]
+              - checkbox "Free parking" [ref=f16e88] [cursor=pointer]
+              - checkbox "Kitchen" [ref=f16e91] [cursor=pointer]
+              - checkbox "Wifi" [ref=f16e94] [cursor=pointer]
+              - checkbox "Air conditioning" [ref=f16e97] [cursor=pointer]
+              - checkbox "Guest favourite" [ref=f16e100] [cursor=pointer]
+              - checkbox "TV" [ref=f16e103] [cursor=pointer]
+              - checkbox "1+ bathrooms" [ref=f16e106] [cursor=pointer]
+              - checkbox "Allows pets" [ref=f16e109] [cursor=pointer]
+              - checkbox "Instant Book" [ref=f16e112] [cursor=pointer]
+      - main [ref=f16e113]:
+        - generic [ref=f16e114]:
+          - heading "Search results; Over 1,000 homes in Hyderabad" [active] [level=1] [ref=f16e121]: Over 1,000 homes in Hyderabad
+          - generic [ref=f16e128]:
+            - group [ref=f16e151]:
+              - link "Flat in Hyderabad" [ref=f16e152] [cursor=pointer]:
+                - /url: /rooms/1556528900487773042?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2409654990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1556528900487773042_0&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e153]:
+                - generic [ref=f16e158]:
+                  - generic [ref=f16e159]: Photo 1 of 5
+                  - generic [ref=f16e160]:
+                    - link [ref=f16e161] [cursor=pointer]:
+                      - /url: /rooms/1556528900487773042?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2409654990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1556528900487773042_0&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e165] [cursor=pointer]:
+                      - /url: /rooms/1556528900487773042?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2409654990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1556528900487773042_0&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e167] [cursor=pointer]:
+                      - /url: /rooms/1556528900487773042?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2409654990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1556528900487773042_0&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e169] [cursor=pointer]:
+                      - /url: /rooms/1556528900487773042?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2409654990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1556528900487773042_0&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e171] [cursor=pointer]:
+                      - /url: /rooms/1556528900487773042?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2409654990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1556528900487773042_0&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Guest favourite
+                          - generic: Guest favourite
+                      - 'button "Add to wishlist: Flat in Hyderabad" [ref=f16e174] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e179] [cursor=pointer]
+                      - 'button "Next photo: Flat in Hyderabad" [ref=f16e184] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 5"
+                - generic [ref=f16e188]:
+                  - generic [ref=f16e189]: Flat in Hyderabad
+                  - generic [ref=f16e190]: Tourist Friendly Nest Studio Room @BirlaMandir
+                  - generic [ref=f16e192]:
+                    - generic [ref=f16e193]:
+                      - generic [ref=f16e194]: 1 bedroom
+                      - generic [ref=f16e195]: 1 bedroom
+                    - generic [ref=f16e196]:
+                      - generic [ref=f16e197]: ","
+                      - generic [ref=f16e198]: ·
+                      - generic [ref=f16e199]: 1 bed
+                      - generic [ref=f16e200]: 1 bed
+                    - generic [ref=f16e201]:
+                      - generic [ref=f16e202]: ","
+                      - generic [ref=f16e203]: ·
+                      - generic [ref=f16e204]: 1 bathroom
+                      - generic [ref=f16e205]: 1 bathroom
+                  - generic [ref=f16e209]:
+                    - button [ref=f16e214] [cursor=pointer]:
+                      - text: ₹1,721
+                      - generic [ref=f16e215]: Show price breakdown
+                    - generic [ref=f16e216]: for 1 night
+                    - generic [ref=f16e218]: ₹1,721 for 1 night
+                  - generic [ref=f16e219]:
+                    - generic:
+                      - generic: 4.8 out of 5 average rating, 54 reviews
+                      - generic: 4.8 (54)
+            - group [ref=f16e242]:
+              - link "Home in Hyderabad" [ref=f16e243] [cursor=pointer]:
+                - /url: /rooms/1747880889920493589?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2764895528&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1747880889920493589_1&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e244]:
+                - generic [ref=f16e249]:
+                  - generic [ref=f16e250]: Photo 1 of 6
+                  - generic [ref=f16e251]:
+                    - link [ref=f16e252] [cursor=pointer]:
+                      - /url: /rooms/1747880889920493589?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2764895528&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1747880889920493589_1&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e256] [cursor=pointer]:
+                      - /url: /rooms/1747880889920493589?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2764895528&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1747880889920493589_1&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e258] [cursor=pointer]:
+                      - /url: /rooms/1747880889920493589?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2764895528&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1747880889920493589_1&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e260] [cursor=pointer]:
+                      - /url: /rooms/1747880889920493589?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2764895528&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1747880889920493589_1&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e262] [cursor=pointer]:
+                      - /url: /rooms/1747880889920493589?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2764895528&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1747880889920493589_1&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e264] [cursor=pointer]:
+                      - /url: /rooms/1747880889920493589?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2764895528&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1747880889920493589_1&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - 'button "Add to wishlist: Home in Hyderabad" [ref=f16e267] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e272] [cursor=pointer]
+                      - 'button "Next photo: Home in Hyderabad" [ref=f16e277] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e281]:
+                  - generic [ref=f16e282]: Home in Hyderabad
+                  - generic [ref=f16e283]: TNGO Phase 2 | Cozy Safe House | Affordable 1BHK
+                  - generic [ref=f16e285]:
+                    - generic [ref=f16e286]:
+                      - generic [ref=f16e287]: 1 bedroom
+                      - generic [ref=f16e288]: 1 bedroom
+                    - generic [ref=f16e289]:
+                      - generic [ref=f16e290]: ","
+                      - generic [ref=f16e291]: ·
+                      - generic [ref=f16e292]: 2 beds
+                      - generic [ref=f16e293]: 2 beds
+                    - generic [ref=f16e294]:
+                      - generic [ref=f16e295]: ","
+                      - generic [ref=f16e296]: ·
+                      - generic [ref=f16e297]: 1 bathroom
+                      - generic [ref=f16e298]: 1 bathroom
+                  - generic [ref=f16e302]:
+                    - button [ref=f16e307] [cursor=pointer]:
+                      - text: ₹1,528
+                      - generic [ref=f16e308]: Show price breakdown
+                    - generic [ref=f16e309]: for 1 night
+                    - generic [ref=f16e311]: ₹1,528 for 1 night
+                  - generic [ref=f16e312]:
+                    - generic:
+                      - generic: 4.86 out of 5 average rating, 7 reviews
+                      - generic: 4.86 (7)
+            - group [ref=f16e335]:
+              - link "Room in Hyderabad" [ref=f16e336] [cursor=pointer]:
+                - /url: /rooms/1487414344369920577?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&category_tag=Tag%3A8678&photo_id=2414081508&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1487414344369920577_2&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e337]:
+                - generic [ref=f16e342]:
+                  - generic [ref=f16e343]: Photo 1 of 6
+                  - generic [ref=f16e344]:
+                    - link [ref=f16e345] [cursor=pointer]:
+                      - /url: /rooms/1487414344369920577?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&category_tag=Tag%3A8678&photo_id=2414081508&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1487414344369920577_2&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e349] [cursor=pointer]:
+                      - /url: /rooms/1487414344369920577?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&category_tag=Tag%3A8678&photo_id=2414081508&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1487414344369920577_2&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e351] [cursor=pointer]:
+                      - /url: /rooms/1487414344369920577?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&category_tag=Tag%3A8678&photo_id=2414081508&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1487414344369920577_2&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e353] [cursor=pointer]:
+                      - /url: /rooms/1487414344369920577?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&category_tag=Tag%3A8678&photo_id=2414081508&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1487414344369920577_2&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e355] [cursor=pointer]:
+                      - /url: /rooms/1487414344369920577?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&category_tag=Tag%3A8678&photo_id=2414081508&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1487414344369920577_2&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e357] [cursor=pointer]:
+                      - /url: /rooms/1487414344369920577?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&category_tag=Tag%3A8678&photo_id=2414081508&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1487414344369920577_2&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Guest favourite
+                          - generic: Guest favourite
+                      - 'button "Add to wishlist: Room in Hyderabad" [ref=f16e360] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e365] [cursor=pointer]
+                      - 'button "Next photo: Room in Hyderabad" [ref=f16e370] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e374]:
+                  - generic [ref=f16e375]: Room in Hyderabad
+                  - generic [ref=f16e376]: Single room at Kondapur
+                  - generic [ref=f16e378]:
+                    - generic [ref=f16e379]:
+                      - generic [ref=f16e380]: 1 bed
+                      - generic [ref=f16e381]: 1 bed
+                    - generic [ref=f16e382]:
+                      - generic [ref=f16e383]: ","
+                      - generic [ref=f16e384]: ·
+                      - generic [ref=f16e385]: 1 bathroom
+                      - generic [ref=f16e386]: 1 bathroom
+                  - generic [ref=f16e390]:
+                    - button [ref=f16e395] [cursor=pointer]:
+                      - text: ₹1,244
+                      - generic [ref=f16e396]: Show price breakdown
+                    - generic [ref=f16e397]: for 1 night
+                    - generic [ref=f16e399]: ₹1,244 for 1 night
+                  - generic [ref=f16e400]:
+                    - generic:
+                      - generic: 4.88 out of 5 average rating, 57 reviews
+                      - generic: 4.88 (57)
+            - group [ref=f16e423]:
+              - link "Apartment in Serilingampally" [ref=f16e424] [cursor=pointer]:
+                - /url: /rooms/1573065171741075106?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2499167358&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1573065171741075106_3&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e425]:
+                - generic [ref=f16e430]:
+                  - generic [ref=f16e431]: Photo 1 of 6
+                  - generic [ref=f16e432]:
+                    - link [ref=f16e433] [cursor=pointer]:
+                      - /url: /rooms/1573065171741075106?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2499167358&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1573065171741075106_3&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e437] [cursor=pointer]:
+                      - /url: /rooms/1573065171741075106?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2499167358&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1573065171741075106_3&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e439] [cursor=pointer]:
+                      - /url: /rooms/1573065171741075106?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2499167358&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1573065171741075106_3&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e441] [cursor=pointer]:
+                      - /url: /rooms/1573065171741075106?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2499167358&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1573065171741075106_3&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e443] [cursor=pointer]:
+                      - /url: /rooms/1573065171741075106?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2499167358&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1573065171741075106_3&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e445] [cursor=pointer]:
+                      - /url: /rooms/1573065171741075106?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2499167358&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1573065171741075106_3&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - 'button "Add to wishlist: Apartment in Serilingampally" [ref=f16e448] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e453] [cursor=pointer]
+                      - 'button "Next photo: Apartment in Serilingampally" [ref=f16e458] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e462]:
+                  - generic [ref=f16e463]: Apartment in Serilingampally
+                  - generic [ref=f16e464]: Prakash Nilayam Studio III - Kondapur
+                  - generic [ref=f16e466]:
+                    - generic [ref=f16e467]:
+                      - generic [ref=f16e468]: 1 bedroom
+                      - generic [ref=f16e469]: 1 bedroom
+                    - generic [ref=f16e470]:
+                      - generic [ref=f16e471]: ","
+                      - generic [ref=f16e472]: ·
+                      - generic [ref=f16e473]: 1 queen bed
+                      - generic [ref=f16e474]: 1 queen bed
+                    - generic [ref=f16e475]:
+                      - generic [ref=f16e476]: ","
+                      - generic [ref=f16e477]: ·
+                      - generic [ref=f16e478]: 1 bathroom
+                      - generic [ref=f16e479]: 1 bathroom
+                  - generic "₹1,663 for 1 night, originally ₹1,910" [ref=f16e484]:
+                    - generic [ref=f16e485]:
+                      - generic [ref=f16e486]:
+                        - generic [ref=f16e487]: ₹1,910
+                        - button [ref=f16e490] [cursor=pointer]:
+                          - text: ₹1,663
+                          - generic [ref=f16e491]: Show price breakdown
+                      - generic [ref=f16e492]: for 1 night
+                  - generic [ref=f16e495]:
+                    - generic:
+                      - generic: 4.61 out of 5 average rating, 23 reviews
+                      - generic: 4.61 (23)
+            - group [ref=f16e518]:
+              - link "Flat in Hyderabad" [ref=f16e519] [cursor=pointer]:
+                - /url: /rooms/1722332172524503185?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2711316344&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1722332172524503185_4&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e520]:
+                - generic [ref=f16e525]:
+                  - generic [ref=f16e526]: Photo 1 of 6
+                  - generic [ref=f16e527]:
+                    - link [ref=f16e528] [cursor=pointer]:
+                      - /url: /rooms/1722332172524503185?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2711316344&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1722332172524503185_4&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e532] [cursor=pointer]:
+                      - /url: /rooms/1722332172524503185?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2711316344&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1722332172524503185_4&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e534] [cursor=pointer]:
+                      - /url: /rooms/1722332172524503185?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2711316344&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1722332172524503185_4&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e536] [cursor=pointer]:
+                      - /url: /rooms/1722332172524503185?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2711316344&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1722332172524503185_4&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e538] [cursor=pointer]:
+                      - /url: /rooms/1722332172524503185?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2711316344&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1722332172524503185_4&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e540] [cursor=pointer]:
+                      - /url: /rooms/1722332172524503185?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2711316344&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1722332172524503185_4&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Guest favourite
+                          - generic: Guest favourite
+                      - 'button "Add to wishlist: Flat in Hyderabad" [ref=f16e543] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e548] [cursor=pointer]
+                      - 'button "Next photo: Flat in Hyderabad" [ref=f16e553] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e557]:
+                  - generic [ref=f16e558]: Flat in Hyderabad
+                  - generic [ref=f16e559]: Jaya's Cozy Studio 9 | HITEC City & Kondapur
+                  - generic [ref=f16e561]:
+                    - generic [ref=f16e562]:
+                      - generic [ref=f16e563]: 1 bedroom
+                      - generic [ref=f16e564]: 1 bedroom
+                    - generic [ref=f16e565]:
+                      - generic [ref=f16e566]: ","
+                      - generic [ref=f16e567]: ·
+                      - generic [ref=f16e568]: 1 queen bed
+                      - generic [ref=f16e569]: 1 queen bed
+                    - generic [ref=f16e570]:
+                      - generic [ref=f16e571]: ","
+                      - generic [ref=f16e572]: ·
+                      - generic [ref=f16e573]: 1 bathroom
+                      - generic [ref=f16e574]: 1 bathroom
+                  - generic "₹2,099 for 1 night, originally ₹2,387" [ref=f16e579]:
+                    - generic [ref=f16e580]:
+                      - generic [ref=f16e581]:
+                        - generic [ref=f16e582]: ₹2,387
+                        - button [ref=f16e585] [cursor=pointer]:
+                          - text: ₹2,099
+                          - generic [ref=f16e586]: Show price breakdown
+                      - generic [ref=f16e587]: for 1 night
+                  - generic [ref=f16e590]:
+                    - generic:
+                      - generic: 5.0 out of 5 average rating, 6 reviews
+                      - generic: 5.0 (6)
+            - group [ref=f16e613]:
+              - link "Flat in Hyderabad" [ref=f16e614] [cursor=pointer]:
+                - /url: /rooms/1721948790853558806?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2710066098&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1721948790853558806_5&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e615]:
+                - generic [ref=f16e620]:
+                  - generic [ref=f16e621]: Photo 1 of 6
+                  - generic [ref=f16e622]:
+                    - link [ref=f16e623] [cursor=pointer]:
+                      - /url: /rooms/1721948790853558806?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2710066098&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1721948790853558806_5&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e627] [cursor=pointer]:
+                      - /url: /rooms/1721948790853558806?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2710066098&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1721948790853558806_5&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e629] [cursor=pointer]:
+                      - /url: /rooms/1721948790853558806?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2710066098&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1721948790853558806_5&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e631] [cursor=pointer]:
+                      - /url: /rooms/1721948790853558806?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2710066098&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1721948790853558806_5&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e633] [cursor=pointer]:
+                      - /url: /rooms/1721948790853558806?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2710066098&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1721948790853558806_5&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e635] [cursor=pointer]:
+                      - /url: /rooms/1721948790853558806?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2710066098&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1721948790853558806_5&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Guest favourite
+                          - generic: Guest favourite
+                      - 'button "Add to wishlist: Flat in Hyderabad" [ref=f16e638] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e643] [cursor=pointer]
+                      - 'button "Next photo: Flat in Hyderabad" [ref=f16e648] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e652]:
+                  - generic [ref=f16e653]: Flat in Hyderabad
+                  - generic [ref=f16e654]: VPR Homes@202/AIG/Google/KIMS/HICC/Yashoda
+                  - generic [ref=f16e656]:
+                    - generic [ref=f16e657]:
+                      - generic [ref=f16e658]: 1 bedroom
+                      - generic [ref=f16e659]: 1 bedroom
+                    - generic [ref=f16e660]:
+                      - generic [ref=f16e661]: ","
+                      - generic [ref=f16e662]: ·
+                      - generic [ref=f16e663]: 1 queen bed
+                      - generic [ref=f16e664]: 1 queen bed
+                    - generic [ref=f16e665]:
+                      - generic [ref=f16e666]: ","
+                      - generic [ref=f16e667]: ·
+                      - generic [ref=f16e668]: 1 bathroom
+                      - generic [ref=f16e669]: 1 bathroom
+                  - generic "₹2,000 for 1 night, originally ₹2,292" [ref=f16e674]:
+                    - generic [ref=f16e675]:
+                      - generic [ref=f16e676]:
+                        - generic [ref=f16e677]: ₹2,292
+                        - button [ref=f16e680] [cursor=pointer]:
+                          - text: ₹2,000
+                          - generic [ref=f16e681]: Show price breakdown
+                      - generic [ref=f16e682]: for 1 night
+                  - generic [ref=f16e685]:
+                    - generic:
+                      - generic: 4.93 out of 5 average rating, 14 reviews
+                      - generic: 4.93 (14)
+            - group [ref=f16e708]:
+              - link "Apartment in Hyderabad" [ref=f16e709] [cursor=pointer]:
+                - /url: /rooms/54172685?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1901216259&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_54172685_6&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e710]:
+                - generic [ref=f16e715]:
+                  - generic [ref=f16e716]: Photo 1 of 6
+                  - generic [ref=f16e717]:
+                    - link [ref=f16e718] [cursor=pointer]:
+                      - /url: /rooms/54172685?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1901216259&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_54172685_6&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e722] [cursor=pointer]:
+                      - /url: /rooms/54172685?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1901216259&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_54172685_6&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e724] [cursor=pointer]:
+                      - /url: /rooms/54172685?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1901216259&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_54172685_6&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e726] [cursor=pointer]:
+                      - /url: /rooms/54172685?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1901216259&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_54172685_6&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e728] [cursor=pointer]:
+                      - /url: /rooms/54172685?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1901216259&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_54172685_6&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e730] [cursor=pointer]:
+                      - /url: /rooms/54172685?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1901216259&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_54172685_6&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Guest favourite
+                          - generic: Guest favourite
+                      - 'button "Add to wishlist: Apartment in Hyderabad" [ref=f16e733] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e738] [cursor=pointer]
+                      - 'button "Next photo: Apartment in Hyderabad" [ref=f16e743] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e747]:
+                  - generic [ref=f16e748]: Apartment in Hyderabad
+                  - generic [ref=f16e749]: Atlas Homes Penthouse 1BHK | Jacuzzi in Hitech City
+                  - generic [ref=f16e751]:
+                    - generic [ref=f16e752]:
+                      - generic [ref=f16e753]: 1 bedroom
+                      - generic [ref=f16e754]: 1 bedroom
+                    - generic [ref=f16e755]:
+                      - generic [ref=f16e756]: ","
+                      - generic [ref=f16e757]: ·
+                      - generic [ref=f16e758]: 2 beds
+                      - generic [ref=f16e759]: 2 beds
+                    - generic [ref=f16e760]:
+                      - generic [ref=f16e761]: ","
+                      - generic [ref=f16e762]: ·
+                      - generic [ref=f16e763]: 1 bathroom
+                      - generic [ref=f16e764]: 1 bathroom
+                  - generic [ref=f16e768]:
+                    - button [ref=f16e773] [cursor=pointer]:
+                      - text: ₹4,203
+                      - generic [ref=f16e774]: Show price breakdown
+                    - generic [ref=f16e775]: for 1 night
+                    - generic [ref=f16e777]: ₹4,203 for 1 night
+                  - generic [ref=f16e778]:
+                    - generic:
+                      - generic: 4.88 out of 5 average rating, 319 reviews
+                      - generic: 4.88 (319)
+            - group [ref=f16e801]:
+              - link "Flat in Hyderabad" [ref=f16e802] [cursor=pointer]:
+                - /url: /rooms/1496052462016945976?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2309884805&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1496052462016945976_7&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e803]:
+                - generic [ref=f16e808]:
+                  - generic [ref=f16e809]: Photo 1 of 6
+                  - generic [ref=f16e810]:
+                    - link [ref=f16e811] [cursor=pointer]:
+                      - /url: /rooms/1496052462016945976?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2309884805&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1496052462016945976_7&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e815] [cursor=pointer]:
+                      - /url: /rooms/1496052462016945976?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2309884805&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1496052462016945976_7&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e817] [cursor=pointer]:
+                      - /url: /rooms/1496052462016945976?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2309884805&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1496052462016945976_7&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e819] [cursor=pointer]:
+                      - /url: /rooms/1496052462016945976?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2309884805&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1496052462016945976_7&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e821] [cursor=pointer]:
+                      - /url: /rooms/1496052462016945976?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2309884805&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1496052462016945976_7&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e823] [cursor=pointer]:
+                      - /url: /rooms/1496052462016945976?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2309884805&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1496052462016945976_7&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Guest favourite
+                          - generic: Guest favourite
+                      - 'button "Add to wishlist: Flat in Hyderabad" [ref=f16e826] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e831] [cursor=pointer]
+                      - 'button "Next photo: Flat in Hyderabad" [ref=f16e836] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e840]:
+                  - generic [ref=f16e841]: Flat in Hyderabad
+                  - generic [ref=f16e842]: TULip 503@Kondapur Brand New Home stay Flat
+                  - generic [ref=f16e844]:
+                    - generic [ref=f16e845]:
+                      - generic [ref=f16e846]: 1 bedroom
+                      - generic [ref=f16e847]: 1 bedroom
+                    - generic [ref=f16e848]:
+                      - generic [ref=f16e849]: ","
+                      - generic [ref=f16e850]: ·
+                      - generic [ref=f16e851]: 1 bed
+                      - generic [ref=f16e852]: 1 bed
+                    - generic [ref=f16e853]:
+                      - generic [ref=f16e854]: ","
+                      - generic [ref=f16e855]: ·
+                      - generic [ref=f16e856]: 1 bathroom
+                      - generic [ref=f16e857]: 1 bathroom
+                  - generic "₹2,053 for 1 night, originally ₹3,110" [ref=f16e862]:
+                    - generic [ref=f16e863]:
+                      - generic [ref=f16e864]:
+                        - generic [ref=f16e865]: ₹3,110
+                        - button [ref=f16e868] [cursor=pointer]:
+                          - text: ₹2,053
+                          - generic [ref=f16e869]: Show price breakdown
+                      - generic [ref=f16e870]: for 1 night
+                  - generic [ref=f16e873]:
+                    - generic:
+                      - generic: 4.94 out of 5 average rating, 66 reviews
+                      - generic: 4.94 (66)
+            - group [ref=f16e896]:
+              - link "Flat in Hyderabad" [ref=f16e897] [cursor=pointer]:
+                - /url: /rooms/1616781873459210423?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2509277478&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1616781873459210423_8&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e898]:
+                - generic [ref=f16e903]:
+                  - generic [ref=f16e904]: Photo 1 of 6
+                  - generic [ref=f16e905]:
+                    - link [ref=f16e906] [cursor=pointer]:
+                      - /url: /rooms/1616781873459210423?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2509277478&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1616781873459210423_8&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e910] [cursor=pointer]:
+                      - /url: /rooms/1616781873459210423?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2509277478&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1616781873459210423_8&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e912] [cursor=pointer]:
+                      - /url: /rooms/1616781873459210423?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2509277478&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1616781873459210423_8&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e914] [cursor=pointer]:
+                      - /url: /rooms/1616781873459210423?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2509277478&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1616781873459210423_8&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e916] [cursor=pointer]:
+                      - /url: /rooms/1616781873459210423?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2509277478&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1616781873459210423_8&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e918] [cursor=pointer]:
+                      - /url: /rooms/1616781873459210423?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2509277478&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1616781873459210423_8&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Guest favourite
+                          - generic: Guest favourite
+                      - 'button "Add to wishlist: Flat in Hyderabad" [ref=f16e921] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e926] [cursor=pointer]
+                      - 'button "Next photo: Flat in Hyderabad" [ref=f16e931] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e935]:
+                  - generic [ref=f16e936]: Flat in Hyderabad
+                  - generic [ref=f16e937]: 1BHK Luxury Stay Gachibowli G1 (Private jaccuzi)
+                  - generic [ref=f16e939]:
+                    - generic [ref=f16e940]:
+                      - generic [ref=f16e941]: 1 bedroom
+                      - generic [ref=f16e942]: 1 bedroom
+                    - generic [ref=f16e943]:
+                      - generic [ref=f16e944]: ","
+                      - generic [ref=f16e945]: ·
+                      - generic [ref=f16e946]: 1 bed
+                      - generic [ref=f16e947]: 1 bed
+                    - generic [ref=f16e948]:
+                      - generic [ref=f16e949]: ","
+                      - generic [ref=f16e950]: ·
+                      - generic [ref=f16e951]: 1 bathroom
+                      - generic [ref=f16e952]: 1 bathroom
+                  - generic [ref=f16e956]:
+                    - button [ref=f16e961] [cursor=pointer]:
+                      - text: ₹4,307
+                      - generic [ref=f16e962]: Show price breakdown
+                    - generic [ref=f16e963]: for 1 night
+                    - generic [ref=f16e965]: ₹4,307 for 1 night
+                  - generic [ref=f16e966]:
+                    - generic:
+                      - generic: 4.83 out of 5 average rating, 18 reviews
+                      - generic: 4.83 (18)
+            - group [ref=f16e989]:
+              - link "Flat in Hyderabad" [ref=f16e990] [cursor=pointer]:
+                - /url: /rooms/1639789202309516550?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2752850027&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1639789202309516550_9&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e991]:
+                - generic [ref=f16e996]:
+                  - generic [ref=f16e997]: Photo 1 of 6
+                  - generic [ref=f16e998]:
+                    - link [ref=f16e999] [cursor=pointer]:
+                      - /url: /rooms/1639789202309516550?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2752850027&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1639789202309516550_9&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1003] [cursor=pointer]:
+                      - /url: /rooms/1639789202309516550?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2752850027&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1639789202309516550_9&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1005] [cursor=pointer]:
+                      - /url: /rooms/1639789202309516550?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2752850027&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1639789202309516550_9&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1007] [cursor=pointer]:
+                      - /url: /rooms/1639789202309516550?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2752850027&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1639789202309516550_9&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1009] [cursor=pointer]:
+                      - /url: /rooms/1639789202309516550?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2752850027&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1639789202309516550_9&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1011] [cursor=pointer]:
+                      - /url: /rooms/1639789202309516550?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2752850027&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1639789202309516550_9&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - 'button "Add to wishlist: Flat in Hyderabad" [ref=f16e1014] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e1019] [cursor=pointer]
+                      - 'button "Next photo: Flat in Hyderabad" [ref=f16e1024] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e1028]:
+                  - generic [ref=f16e1029]: Flat in Hyderabad
+                  - generic [ref=f16e1030]: Netflix | Chill | Pvt | Projector | Couples Frndly
+                  - generic [ref=f16e1032]:
+                    - generic [ref=f16e1033]:
+                      - generic [ref=f16e1034]: 1 bedroom
+                      - generic [ref=f16e1035]: 1 bedroom
+                    - generic [ref=f16e1036]:
+                      - generic [ref=f16e1037]: ","
+                      - generic [ref=f16e1038]: ·
+                      - generic [ref=f16e1039]: 2 beds
+                      - generic [ref=f16e1040]: 2 beds
+                    - generic [ref=f16e1041]:
+                      - generic [ref=f16e1042]: ","
+                      - generic [ref=f16e1043]: ·
+                      - generic [ref=f16e1044]: 1 bathroom
+                      - generic [ref=f16e1045]: 1 bathroom
+                  - generic [ref=f16e1049]:
+                    - button [ref=f16e1054] [cursor=pointer]:
+                      - text: ₹1,560
+                      - generic [ref=f16e1055]: Show price breakdown
+                    - generic [ref=f16e1056]: for 1 night
+                    - generic [ref=f16e1058]: ₹1,560 for 1 night
+                  - generic [ref=f16e1059]:
+                    - generic:
+                      - generic: 5.0 out of 5 average rating, 4 reviews
+                      - generic: 5.0 (4)
+            - group [ref=f16e1082]:
+              - link "Apartment in Hyderabad" [ref=f16e1083] [cursor=pointer]:
+                - /url: /rooms/1389163877184999843?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2606761297&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1389163877184999843_10&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e1084]:
+                - generic [ref=f16e1089]:
+                  - generic [ref=f16e1090]: Photo 1 of 6
+                  - generic [ref=f16e1091]:
+                    - link [ref=f16e1092] [cursor=pointer]:
+                      - /url: /rooms/1389163877184999843?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2606761297&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1389163877184999843_10&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1095] [cursor=pointer]:
+                      - /url: /rooms/1389163877184999843?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2606761297&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1389163877184999843_10&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1097] [cursor=pointer]:
+                      - /url: /rooms/1389163877184999843?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2606761297&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1389163877184999843_10&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1099] [cursor=pointer]:
+                      - /url: /rooms/1389163877184999843?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2606761297&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1389163877184999843_10&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1101] [cursor=pointer]:
+                      - /url: /rooms/1389163877184999843?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2606761297&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1389163877184999843_10&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1103] [cursor=pointer]:
+                      - /url: /rooms/1389163877184999843?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2606761297&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1389163877184999843_10&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - 'button "Add to wishlist: Apartment in Hyderabad" [ref=f16e1106] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e1111] [cursor=pointer]
+                      - 'button "Next photo: Apartment in Hyderabad" [ref=f16e1116] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e1120]:
+                  - generic [ref=f16e1121]: Apartment in Hyderabad
+                  - generic [ref=f16e1122]: Rooftop studio | Garden, Views & IT Hub
+                  - generic [ref=f16e1124]:
+                    - generic [ref=f16e1125]:
+                      - generic [ref=f16e1126]: 1 bedroom
+                      - generic [ref=f16e1127]: 1 bedroom
+                    - generic [ref=f16e1128]:
+                      - generic [ref=f16e1129]: ","
+                      - generic [ref=f16e1130]: ·
+                      - generic [ref=f16e1131]: 1 king bed
+                      - generic [ref=f16e1132]: 1 king bed
+                    - generic [ref=f16e1133]:
+                      - generic [ref=f16e1134]: ","
+                      - generic [ref=f16e1135]: ·
+                      - generic [ref=f16e1136]: 1 bathroom
+                      - generic [ref=f16e1137]: 1 bathroom
+                  - generic "₹2,840 for 1 night, originally ₹3,724" [ref=f16e1142]:
+                    - generic [ref=f16e1143]:
+                      - generic [ref=f16e1144]:
+                        - generic [ref=f16e1145]: ₹3,724
+                        - button [ref=f16e1148] [cursor=pointer]:
+                          - text: ₹2,840
+                          - generic [ref=f16e1149]: Show price breakdown
+                      - generic [ref=f16e1150]: for 1 night
+                  - generic [ref=f16e1153]:
+                    - generic:
+                      - generic: 4.87 out of 5 average rating, 31 reviews
+                      - generic: 4.87 (31)
+            - group [ref=f16e1176]:
+              - link "Tiny home in Hyderabad" [ref=f16e1177] [cursor=pointer]:
+                - /url: /rooms/1218786174808500211?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2360977648&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1218786174808500211_11&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e1178]:
+                - generic [ref=f16e1183]:
+                  - generic [ref=f16e1184]: Photo 1 of 6
+                  - generic [ref=f16e1185]:
+                    - link [ref=f16e1186] [cursor=pointer]:
+                      - /url: /rooms/1218786174808500211?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2360977648&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1218786174808500211_11&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1189] [cursor=pointer]:
+                      - /url: /rooms/1218786174808500211?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2360977648&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1218786174808500211_11&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1191] [cursor=pointer]:
+                      - /url: /rooms/1218786174808500211?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2360977648&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1218786174808500211_11&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1193] [cursor=pointer]:
+                      - /url: /rooms/1218786174808500211?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2360977648&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1218786174808500211_11&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1195] [cursor=pointer]:
+                      - /url: /rooms/1218786174808500211?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2360977648&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1218786174808500211_11&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1197] [cursor=pointer]:
+                      - /url: /rooms/1218786174808500211?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2360977648&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1218786174808500211_11&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Guest favourite
+                          - generic: Guest favourite
+                      - 'button "Add to wishlist: Tiny home in Hyderabad" [ref=f16e1200] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e1205] [cursor=pointer]
+                      - 'button "Next photo: Tiny home in Hyderabad" [ref=f16e1210] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e1214]:
+                  - generic [ref=f16e1215]: Tiny home in Hyderabad
+                  - generic [ref=f16e1216]: Peace Perch
+                  - generic [ref=f16e1218]:
+                    - generic [ref=f16e1219]:
+                      - generic [ref=f16e1220]: 1 bedroom
+                      - generic [ref=f16e1221]: 1 bedroom
+                    - generic [ref=f16e1222]:
+                      - generic [ref=f16e1223]: ","
+                      - generic [ref=f16e1224]: ·
+                      - generic [ref=f16e1225]: 2 beds
+                      - generic [ref=f16e1226]: 2 beds
+                    - generic [ref=f16e1227]:
+                      - generic [ref=f16e1228]: ","
+                      - generic [ref=f16e1229]: ·
+                      - generic [ref=f16e1230]: 1 bathroom
+                      - generic [ref=f16e1231]: 1 bathroom
+                  - generic [ref=f16e1235]:
+                    - button [ref=f16e1240] [cursor=pointer]:
+                      - text: ₹2,740
+                      - generic [ref=f16e1241]: Show price breakdown
+                    - generic [ref=f16e1242]: for 1 night
+                    - generic [ref=f16e1244]: ₹2,740 for 1 night
+                  - generic [ref=f16e1245]:
+                    - generic:
+                      - generic: 4.92 out of 5 average rating, 131 reviews
+                      - generic: 4.92 (131)
+            - group [ref=f16e1268]:
+              - link "Flat in Hyderabad" [ref=f16e1269] [cursor=pointer]:
+                - /url: /rooms/1671759685574995411?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2607235937&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1671759685574995411_12&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e1270]:
+                - generic [ref=f16e1275]:
+                  - generic [ref=f16e1276]: Photo 1 of 6
+                  - generic [ref=f16e1277]:
+                    - link [ref=f16e1278] [cursor=pointer]:
+                      - /url: /rooms/1671759685574995411?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2607235937&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1671759685574995411_12&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1281] [cursor=pointer]:
+                      - /url: /rooms/1671759685574995411?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2607235937&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1671759685574995411_12&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1283] [cursor=pointer]:
+                      - /url: /rooms/1671759685574995411?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2607235937&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1671759685574995411_12&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1285] [cursor=pointer]:
+                      - /url: /rooms/1671759685574995411?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2607235937&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1671759685574995411_12&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1287] [cursor=pointer]:
+                      - /url: /rooms/1671759685574995411?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2607235937&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1671759685574995411_12&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1289] [cursor=pointer]:
+                      - /url: /rooms/1671759685574995411?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2607235937&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1671759685574995411_12&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Guest favourite
+                          - generic: Guest favourite
+                      - 'button "Add to wishlist: Flat in Hyderabad" [ref=f16e1292] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e1297] [cursor=pointer]
+                      - 'button "Next photo: Flat in Hyderabad" [ref=f16e1302] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e1306]:
+                  - generic [ref=f16e1307]: Flat in Hyderabad
+                  - generic [ref=f16e1308]: Easygoing Vibe 1BHK | Penthouse | Gachibowli
+                  - generic [ref=f16e1310]:
+                    - generic [ref=f16e1311]:
+                      - generic [ref=f16e1312]: 1 bedroom
+                      - generic [ref=f16e1313]: 1 bedroom
+                    - generic [ref=f16e1314]:
+                      - generic [ref=f16e1315]: ","
+                      - generic [ref=f16e1316]: ·
+                      - generic [ref=f16e1317]: 1 bed
+                      - generic [ref=f16e1318]: 1 bed
+                    - generic [ref=f16e1319]:
+                      - generic [ref=f16e1320]: ","
+                      - generic [ref=f16e1321]: ·
+                      - generic [ref=f16e1322]: 1 bathroom
+                      - generic [ref=f16e1323]: 1 bathroom
+                  - generic [ref=f16e1327]:
+                    - button [ref=f16e1332] [cursor=pointer]:
+                      - text: ₹3,086
+                      - generic [ref=f16e1333]: Show price breakdown
+                    - generic [ref=f16e1334]: for 1 night
+                    - generic [ref=f16e1336]: ₹3,086 for 1 night
+                  - generic [ref=f16e1337]:
+                    - generic:
+                      - generic: 4.83 out of 5 average rating, 23 reviews
+                      - generic: 4.83 (23)
+            - group [ref=f16e1360]:
+              - link "Apartment in Hyderabad" [ref=f16e1361] [cursor=pointer]:
+                - /url: /rooms/1549967230428465533?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2762073990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1549967230428465533_13&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e1362]:
+                - generic [ref=f16e1367]:
+                  - generic [ref=f16e1368]: Photo 1 of 6
+                  - generic [ref=f16e1369]:
+                    - link [ref=f16e1370] [cursor=pointer]:
+                      - /url: /rooms/1549967230428465533?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2762073990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1549967230428465533_13&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1373] [cursor=pointer]:
+                      - /url: /rooms/1549967230428465533?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2762073990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1549967230428465533_13&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1375] [cursor=pointer]:
+                      - /url: /rooms/1549967230428465533?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2762073990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1549967230428465533_13&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1377] [cursor=pointer]:
+                      - /url: /rooms/1549967230428465533?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2762073990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1549967230428465533_13&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1379] [cursor=pointer]:
+                      - /url: /rooms/1549967230428465533?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2762073990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1549967230428465533_13&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1381] [cursor=pointer]:
+                      - /url: /rooms/1549967230428465533?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2762073990&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1549967230428465533_13&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Superhost
+                          - generic: Superhost
+                      - 'button "Add to wishlist: Apartment in Hyderabad" [ref=f16e1384] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e1389] [cursor=pointer]
+                      - 'button "Next photo: Apartment in Hyderabad" [ref=f16e1394] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e1398]:
+                  - generic [ref=f16e1399]: Apartment in Hyderabad
+                  - generic [ref=f16e1400]: "Fully Equipped 1BHK: Near ISB, Consulate & Infosys"
+                  - generic [ref=f16e1402]:
+                    - generic [ref=f16e1403]:
+                      - generic [ref=f16e1404]: 1 bedroom
+                      - generic [ref=f16e1405]: 1 bedroom
+                    - generic [ref=f16e1406]:
+                      - generic [ref=f16e1407]: ","
+                      - generic [ref=f16e1408]: ·
+                      - generic [ref=f16e1409]: 2 beds
+                      - generic [ref=f16e1410]: 2 beds
+                    - generic [ref=f16e1411]:
+                      - generic [ref=f16e1412]: ","
+                      - generic [ref=f16e1413]: ·
+                      - generic [ref=f16e1414]: 1 bathroom
+                      - generic [ref=f16e1415]: 1 bathroom
+                  - generic "₹1,901 for 1 night, originally ₹2,112" [ref=f16e1420]:
+                    - generic [ref=f16e1421]:
+                      - generic [ref=f16e1422]:
+                        - generic [ref=f16e1423]: ₹2,112
+                        - button [ref=f16e1426] [cursor=pointer]:
+                          - text: ₹1,901
+                          - generic [ref=f16e1427]: Show price breakdown
+                      - generic [ref=f16e1428]: for 1 night
+                  - generic [ref=f16e1431]:
+                    - generic:
+                      - generic: 4.84 out of 5 average rating, 31 reviews
+                      - generic: 4.84 (31)
+            - group [ref=f16e1454]:
+              - link "Tiny home in Hyderabad" [ref=f16e1455] [cursor=pointer]:
+                - /url: /rooms/1243185910327125125?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2190593919&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1243185910327125125_14&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e1456]:
+                - generic [ref=f16e1461]:
+                  - generic [ref=f16e1462]: Photo 1 of 6
+                  - generic [ref=f16e1463]:
+                    - link [ref=f16e1464] [cursor=pointer]:
+                      - /url: /rooms/1243185910327125125?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2190593919&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1243185910327125125_14&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1467] [cursor=pointer]:
+                      - /url: /rooms/1243185910327125125?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2190593919&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1243185910327125125_14&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1469] [cursor=pointer]:
+                      - /url: /rooms/1243185910327125125?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2190593919&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1243185910327125125_14&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1471] [cursor=pointer]:
+                      - /url: /rooms/1243185910327125125?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2190593919&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1243185910327125125_14&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1473] [cursor=pointer]:
+                      - /url: /rooms/1243185910327125125?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2190593919&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1243185910327125125_14&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1475] [cursor=pointer]:
+                      - /url: /rooms/1243185910327125125?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2190593919&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1243185910327125125_14&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Superhost
+                          - generic: Superhost
+                      - 'button "Add to wishlist: Tiny home in Hyderabad" [ref=f16e1478] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e1483] [cursor=pointer]
+                      - 'button "Next photo: Tiny home in Hyderabad" [ref=f16e1488] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e1492]:
+                  - generic [ref=f16e1493]: Tiny home in Hyderabad
+                  - generic [ref=f16e1494]: little Perch
+                  - generic [ref=f16e1496]:
+                    - generic [ref=f16e1497]:
+                      - generic [ref=f16e1498]: 1 bedroom
+                      - generic [ref=f16e1499]: 1 bedroom
+                    - generic [ref=f16e1500]:
+                      - generic [ref=f16e1501]: ","
+                      - generic [ref=f16e1502]: ·
+                      - generic [ref=f16e1503]: 1 queen bed
+                      - generic [ref=f16e1504]: 1 queen bed
+                    - generic [ref=f16e1505]:
+                      - generic [ref=f16e1506]: ","
+                      - generic [ref=f16e1507]: ·
+                      - generic [ref=f16e1508]: 1 bathroom
+                      - generic [ref=f16e1509]: 1 bathroom
+                  - generic [ref=f16e1513]:
+                    - button [ref=f16e1518] [cursor=pointer]:
+                      - text: ₹1,447
+                      - generic [ref=f16e1519]: Show price breakdown
+                    - generic [ref=f16e1520]: for 1 night
+                    - generic [ref=f16e1522]: ₹1,447 for 1 night
+                  - generic [ref=f16e1523]:
+                    - generic:
+                      - generic: 4.75 out of 5 average rating, 68 reviews
+                      - generic: 4.75 (68)
+            - group [ref=f16e1546]:
+              - link "Flat in Nankramguda" [ref=f16e1547] [cursor=pointer]:
+                - /url: /rooms/1501351377522965512?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2319229773&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1501351377522965512_15&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e1548]:
+                - generic [ref=f16e1553]:
+                  - generic [ref=f16e1554]: Photo 1 of 6
+                  - generic [ref=f16e1555]:
+                    - link [ref=f16e1556] [cursor=pointer]:
+                      - /url: /rooms/1501351377522965512?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2319229773&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1501351377522965512_15&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1559] [cursor=pointer]:
+                      - /url: /rooms/1501351377522965512?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2319229773&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1501351377522965512_15&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1561] [cursor=pointer]:
+                      - /url: /rooms/1501351377522965512?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2319229773&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1501351377522965512_15&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1563] [cursor=pointer]:
+                      - /url: /rooms/1501351377522965512?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2319229773&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1501351377522965512_15&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1565] [cursor=pointer]:
+                      - /url: /rooms/1501351377522965512?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2319229773&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1501351377522965512_15&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1567] [cursor=pointer]:
+                      - /url: /rooms/1501351377522965512?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2319229773&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1501351377522965512_15&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Superhost
+                          - generic: Superhost
+                      - 'button "Add to wishlist: Flat in Nankramguda" [ref=f16e1570] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e1575] [cursor=pointer]
+                      - 'button "Next photo: Flat in Nankramguda" [ref=f16e1580] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e1584]:
+                  - generic [ref=f16e1585]: Flat in Nankramguda
+                  - generic [ref=f16e1586]: Luxury Studio near Financial District
+                  - generic [ref=f16e1588]:
+                    - generic [ref=f16e1589]:
+                      - generic [ref=f16e1590]: 1 bedroom
+                      - generic [ref=f16e1591]: 1 bedroom
+                    - generic [ref=f16e1592]:
+                      - generic [ref=f16e1593]: ","
+                      - generic [ref=f16e1594]: ·
+                      - generic [ref=f16e1595]: 1 queen bed
+                      - generic [ref=f16e1596]: 1 queen bed
+                    - generic [ref=f16e1597]:
+                      - generic [ref=f16e1598]: ","
+                      - generic [ref=f16e1599]: ·
+                      - generic [ref=f16e1600]: 1 bathroom
+                      - generic [ref=f16e1601]: 1 bathroom
+                  - generic "₹1,485 for 1 night, originally ₹1,735" [ref=f16e1606]:
+                    - generic [ref=f16e1607]:
+                      - generic [ref=f16e1608]:
+                        - generic [ref=f16e1609]: ₹1,735
+                        - button [ref=f16e1612] [cursor=pointer]:
+                          - text: ₹1,485
+                          - generic [ref=f16e1613]: Show price breakdown
+                      - generic [ref=f16e1614]: for 1 night
+                  - generic [ref=f16e1617]:
+                    - generic:
+                      - generic: 4.84 out of 5 average rating, 38 reviews
+                      - generic: 4.84 (38)
+            - group [ref=f16e1640]:
+              - link "Flat in Hyderabad" [ref=f16e1641] [cursor=pointer]:
+                - /url: /rooms/1588593325362819584?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2735121055&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1588593325362819584_16&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e1642]:
+                - generic [ref=f16e1647]:
+                  - generic [ref=f16e1648]: Photo 1 of 6
+                  - generic [ref=f16e1649]:
+                    - link [ref=f16e1650] [cursor=pointer]:
+                      - /url: /rooms/1588593325362819584?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2735121055&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1588593325362819584_16&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1653] [cursor=pointer]:
+                      - /url: /rooms/1588593325362819584?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2735121055&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1588593325362819584_16&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1655] [cursor=pointer]:
+                      - /url: /rooms/1588593325362819584?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2735121055&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1588593325362819584_16&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1657] [cursor=pointer]:
+                      - /url: /rooms/1588593325362819584?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2735121055&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1588593325362819584_16&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1659] [cursor=pointer]:
+                      - /url: /rooms/1588593325362819584?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2735121055&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1588593325362819584_16&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1661] [cursor=pointer]:
+                      - /url: /rooms/1588593325362819584?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=2735121055&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_1588593325362819584_16&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - 'button "Add to wishlist: Flat in Hyderabad" [ref=f16e1664] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e1669] [cursor=pointer]
+                      - 'button "Next photo: Flat in Hyderabad" [ref=f16e1674] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e1678]:
+                  - generic [ref=f16e1679]: Flat in Hyderabad
+                  - generic [ref=f16e1680]: Private Flat | Projector | Glass Balcony | Couple
+                  - generic [ref=f16e1682]:
+                    - generic [ref=f16e1683]:
+                      - generic [ref=f16e1684]: 1 bedroom
+                      - generic [ref=f16e1685]: 1 bedroom
+                    - generic [ref=f16e1686]:
+                      - generic [ref=f16e1687]: ","
+                      - generic [ref=f16e1688]: ·
+                      - generic [ref=f16e1689]: 1 bed
+                      - generic [ref=f16e1690]: 1 bed
+                    - generic [ref=f16e1691]:
+                      - generic [ref=f16e1692]: ","
+                      - generic [ref=f16e1693]: ·
+                      - generic [ref=f16e1694]: 1 bathroom
+                      - generic [ref=f16e1695]: 1 bathroom
+                  - generic [ref=f16e1699]:
+                    - button [ref=f16e1704] [cursor=pointer]:
+                      - text: ₹1,377
+                      - generic [ref=f16e1705]: Show price breakdown
+                    - generic [ref=f16e1706]: for 1 night
+                    - generic [ref=f16e1708]: ₹1,377 for 1 night
+                  - generic [ref=f16e1709]:
+                    - generic:
+                      - generic: 4.84 out of 5 average rating, 25 reviews
+                      - generic: 4.84 (25)
+            - group [ref=f16e1732]:
+              - link "Place to stay in Hyderabad" [ref=f16e1733] [cursor=pointer]:
+                - /url: /rooms/887309960833793197?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1647127545&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_887309960833793197_17&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+              - generic [ref=f16e1734]:
+                - generic [ref=f16e1739]:
+                  - generic [ref=f16e1740]: Photo 1 of 6
+                  - generic [ref=f16e1741]:
+                    - link [ref=f16e1742] [cursor=pointer]:
+                      - /url: /rooms/887309960833793197?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1647127545&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_887309960833793197_17&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1745] [cursor=pointer]:
+                      - /url: /rooms/887309960833793197?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1647127545&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_887309960833793197_17&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1747] [cursor=pointer]:
+                      - /url: /rooms/887309960833793197?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1647127545&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_887309960833793197_17&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1749] [cursor=pointer]:
+                      - /url: /rooms/887309960833793197?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1647127545&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_887309960833793197_17&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1751] [cursor=pointer]:
+                      - /url: /rooms/887309960833793197?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1647127545&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_887309960833793197_17&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                    - link [ref=f16e1753] [cursor=pointer]:
+                      - /url: /rooms/887309960833793197?adults=2&check_in=2026-08-31&check_out=2026-09-01&search_mode=regular_search&photo_id=1647127545&source_impression_id=p3_849bece8-47d3-4857-a851-fbf8ccf2e3fd_94645725-6c82-4bdc-9ac8-75e0a936366b_0_887309960833793197_17&previous_page_section_name=1000&federated_search_id=849bece8-47d3-4857-a851-fbf8ccf2e3fd
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Superhost
+                          - generic: Superhost
+                      - 'button "Add to wishlist: Place to stay in Hyderabad" [ref=f16e1756] [cursor=pointer]'
+                    - generic:
+                      - button [disabled] [ref=f16e1761] [cursor=pointer]
+                      - 'button "Next photo: Place to stay in Hyderabad" [ref=f16e1766] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - img "Photo 1 of 6"
+                - generic [ref=f16e1770]:
+                  - generic [ref=f16e1771]: Place to stay in Hyderabad
+                  - generic [ref=f16e1772]: Legend's studio & mini kitchen
+                  - generic [ref=f16e1774]:
+                    - generic [ref=f16e1775]:
+                      - generic [ref=f16e1776]: 1 bedroom
+                      - generic [ref=f16e1777]: 1 bedroom
+                    - generic [ref=f16e1778]:
+                      - generic [ref=f16e1779]: ","
+                      - generic [ref=f16e1780]: ·
+                      - generic [ref=f16e1781]: 1 king bed
+                      - generic [ref=f16e1782]: 1 king bed
+                    - generic [ref=f16e1783]:
+                      - generic [ref=f16e1784]: ","
+                      - generic [ref=f16e1785]: ·
+                      - generic [ref=f16e1786]: 1 bathroom
+                      - generic [ref=f16e1787]: 1 bathroom
+                  - generic [ref=f16e1791]:
+                    - button [ref=f16e1796] [cursor=pointer]:
+                      - text: ₹1,920
+                      - generic [ref=f16e1797]: Show price breakdown
+                    - generic [ref=f16e1798]: for 1 night
+                    - generic [ref=f16e1800]: ₹1,920 for 1 night
+                  - generic [ref=f16e1801]:
+                    - generic:
+                      - generic: 4.81 out of 5 average rating, 194 reviews
+                      - generic: 4.81 (194)
+        - application "Google Map" [ref=f16e1807]
+      - contentinfo [ref=f16e1814]:
+        - generic [ref=f16e1815]:
+          - heading "Site Footer" [level=2] [ref=f16e1817]
+          - generic [ref=f16e1818]:
+            - generic [ref=f16e1819]:
+              - heading "Support" [level=3] [ref=f16e1820]
+              - list [ref=f16e1821]:
+                - listitem [ref=f16e1822]:
+                  - link "Help Centre" [ref=f16e1823] [cursor=pointer]:
+                    - /url: /help/home?from=footer
+                - listitem [ref=f16e1824]:
+                  - link "Get help with a safety issue" [ref=f16e1825] [cursor=pointer]:
+                    - /url: /help/contact-us?entry=DESKTOP_FOOTER_SAFETY
+                - listitem [ref=f16e1826]:
+                  - link "AirCover" [ref=f16e1827] [cursor=pointer]:
+                    - /url: /aircover
+                - listitem [ref=f16e1828]:
+                  - link "Anti-discrimination" [ref=f16e1829] [cursor=pointer]:
+                    - /url: /against-discrimination
+                - listitem [ref=f16e1830]:
+                  - link "Disability support" [ref=f16e1831] [cursor=pointer]:
+                    - /url: /accessibility
+                - listitem [ref=f16e1832]:
+                  - link "Cancellation options" [ref=f16e1833] [cursor=pointer]:
+                    - /url: /help/article/2701/extenuating-circumstances-policy-and-the-coronavirus-covid19
+                - listitem [ref=f16e1834]:
+                  - link "Report neighbourhood concern" [ref=f16e1835] [cursor=pointer]:
+                    - /url: /neighbors
+            - generic [ref=f16e1836]:
+              - heading "Hosting" [level=3] [ref=f16e1837]
+              - list [ref=f16e1838]:
+                - listitem [ref=f16e1839]:
+                  - link "Airbnb your home" [ref=f16e1840] [cursor=pointer]:
+                    - /url: /host/homes?from_footer=1
+                - listitem [ref=f16e1841]:
+                  - link "Airbnb your experience" [ref=f16e1842] [cursor=pointer]:
+                    - /url: /host/experiences
+                - listitem [ref=f16e1843]:
+                  - link "Airbnb your service" [ref=f16e1844] [cursor=pointer]:
+                    - /url: /host/services
+                - listitem [ref=f16e1845]:
+                  - link "AirCover for Hosts" [ref=f16e1846] [cursor=pointer]:
+                    - /url: /aircover-for-hosts
+                - listitem [ref=f16e1847]:
+                  - link "Hosting resources" [ref=f16e1848] [cursor=pointer]:
+                    - /url: /resources
+                - listitem [ref=f16e1849]:
+                  - link "Community forum" [ref=f16e1850] [cursor=pointer]:
+                    - /url: https://community.withairbnb.com/t5/Community-Center/ct-p/community-center
+                - listitem [ref=f16e1851]:
+                  - link "Hosting responsibly" [ref=f16e1852] [cursor=pointer]:
+                    - /url: /help/responsible-hosting
+                - listitem [ref=f16e1853]:
+                  - link "Join a free hosting class" [ref=f16e1854] [cursor=pointer]:
+                    - /url: /e/intro-to-hosting
+                - listitem [ref=f16e1855]:
+                  - link "Find a co‑host" [ref=f16e1856] [cursor=pointer]:
+                    - /url: /host/co-hosts
+                - listitem [ref=f16e1857]:
+                  - link "Refer a host" [ref=f16e1858] [cursor=pointer]:
+                    - /url: /refer
+            - generic [ref=f16e1859]:
+              - heading "Airbnb" [level=3] [ref=f16e1860]
+              - list [ref=f16e1861]:
+                - listitem [ref=f16e1862]:
+                  - link "2026 Summer Release" [ref=f16e1863] [cursor=pointer]:
+                    - /url: /release
+                - listitem [ref=f16e1864]:
+                  - link "Newsroom" [ref=f16e1865] [cursor=pointer]:
+                    - /url: /press/news
+                - listitem [ref=f16e1866]:
+                  - link "Careers" [ref=f16e1867] [cursor=pointer]:
+                    - /url: /careers
+                - listitem [ref=f16e1868]:
+                  - link "Investors" [ref=f16e1869] [cursor=pointer]:
+                    - /url: https://investors.airbnb.com
+                - listitem [ref=f16e1870]:
+                  - link "Airbnb.org emergency stays" [ref=f16e1871] [cursor=pointer]:
+                    - /url: https://www.airbnb.org?locale=en-IN
+          - generic [ref=f16e1872]:
+            - generic [ref=f16e1873]: Footer section
+            - generic [ref=f16e1875]:
+              - generic [ref=f16e1877]:
+                - generic [ref=f16e1878]: © 2026 Airbnb, Inc.
+                - generic [ref=f16e1879]:
+                  - generic [ref=f16e1880]: ·
+                  - list [ref=f16e1883]:
+                    - listitem [ref=f16e1884]:
+                      - link "Privacy" [ref=f16e1885] [cursor=pointer]:
+                        - /url: /terms/privacy_policy
+                      - generic [ref=f16e1886]: ·
+                    - listitem [ref=f16e1887]:
+                      - link "Terms" [ref=f16e1888] [cursor=pointer]:
+                        - /url: /terms
+                      - generic [ref=f16e1889]: ·
+                    - listitem [ref=f16e1890]:
+                      - link "Company details" [ref=f16e1891] [cursor=pointer]:
+                        - /url: /about/company-details
+              - generic [ref=f16e1892]:
+                - generic [ref=f16e1894]:
+                  - button "Choose a language" [ref=f16e1896] [cursor=pointer]:
+                    - generic [ref=f16e1897]: English (IN)
+                  - button "Choose a currency" [ref=f16e1899] [cursor=pointer]:
+                    - generic [ref=f16e1901]:
+                      - generic [ref=f16e1902]: ₹
+                      - generic [ref=f16e1903]: INR
+                - list [ref=f16e1905]:
+                  - listitem [ref=f16e1906]:
+                    - link "Navigate to Facebook" [ref=f16e1907] [cursor=pointer]:
+                      - /url: https://www.facebook.com/AirbnbIndia
+                  - listitem [ref=f16e1911]:
+                    - link "Navigate to Twitter" [ref=f16e1912] [cursor=pointer]:
+                      - /url: https://twitter.com/airbnb_in
+                  - listitem [ref=f16e1916]:
+                    - link "Navigate to Instagram" [ref=f16e1917] [cursor=pointer]:
+                      - /url: https://instagram.com/airbnb
+    - generic [ref=f16e1921]: Loading
